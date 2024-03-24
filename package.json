@@ -1,0 +1,19 @@
+{
+  "name": "backend_folder",
+  "version": "1.0.0",
+  "description": "setup a professionl backend folder",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "backend",
+    "javascript"
+  ],
+  "author": "UTKARSH CHATURVEDI",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
